@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.container{
+    background-color: rgb(217, 176, 176);
+}
+.nav{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    
+}
+
+.nav ul  {
+  
+    list-style-type: none;
+  display: flex;
+  margin-left: 0;
+  
+}
+.nav ul li{
+
+    font-size: 2.5vh;
+    margin-left: 30px;
+
+}
+.nav div img{
+    width: 45px;
+    height: 34px;
+    margin-left: 50vh;
+}
